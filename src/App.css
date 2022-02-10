@@ -114,6 +114,12 @@
 	object-fit: cover;
 }
 
+.gif-item p {
+	width: 100%;
+
+	color: #fff;
+}
+
 .connected-container input[type="text"] {
 	display: inline-block;
 	color: white;
